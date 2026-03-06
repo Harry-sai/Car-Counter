@@ -6,9 +6,9 @@ It also saves the processed output video with overlays and count.
 
 ## Demo Output
 
-<video src="./output_car_counter.mp4" controls autoplay muted loop playsinline width="900"></video>
+[![Vehicle Counting Demo](./demo.gif)](./output_car_counter.mp4)
 
-If the player does not render in your viewer, open the video directly: [output_car_counter.mp4](./output_car_counter.mp4)
+Click the GIF to open the full video: [output_car_counter.mp4](./output_car_counter.mp4)
 
 ## Features
 
