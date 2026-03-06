@@ -26,7 +26,7 @@ It also saves the processed output video with overlays and count.
 Install dependencies from:
 
 ```bash
-pip install -r Project1-Car/requirements.txt
+pip install -r requirements.txt
 ```
 
 Main packages used:
@@ -51,8 +51,9 @@ Press `q` to stop the app.
 ## Input and Output Paths (Current Script)
 
 - Input video: `Video/cars.mp4`
-- Model weights: `../Yolo_weights/yolov8l.pt`
-- Output video: `Project1-Car/output_car_counter.mp4`
+- Model weights: `model/yolov8l.pt`
+- Output video: `output_car_counter.mp4`
+
 
 ## Notes
 
