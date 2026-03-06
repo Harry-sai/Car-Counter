@@ -1,0 +1,23 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project-generated outputs
+output_car_counter.mp4
+
+# Local video/data files
+video/
