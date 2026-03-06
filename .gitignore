@@ -16,8 +16,3 @@ Thumbs.db
 # Logs
 *.log
 
-# Project-generated outputs
-output_car_counter.mp4
-
-# Local video/data files
-#video/
