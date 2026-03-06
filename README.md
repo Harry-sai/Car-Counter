@@ -66,3 +66,7 @@ Press `q` to stop the app.
 - The script is currently written for Windows-style paths.
 - On Linux/macOS, path case matters (`Video` vs `video`), so update paths if needed.
 - If CUDA is available, inference runs on GPU automatically; otherwise CPU is used.
+
+### Data Sources:
+- Input video: https://www.computervision.zone/topic/project-1-car-counter/
+- sort.py: https://github.com/abewley/sort/tree/master
